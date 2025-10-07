@@ -1,11 +1,11 @@
-.body {
+body {
 background-color: #FFFFE0; 
 font-family: Arials, san-serif;
   color: #d92b1e;
 }
 .kartu-profil {
   width: 300px;
-  margin: 50px auto;
+  margin: 50px auto;.
   
   padding: 20px;
   background-color: cream;
@@ -14,7 +14,7 @@ font-family: Arials, san-serif;
   text-align: center; 
 }
 .kartun-profil img {
-  width: 120px;
+  width: 150px;
   border-radius: 50%;
 }
 

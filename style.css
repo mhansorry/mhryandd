@@ -1,10 +1,9 @@
-.body{
-  background-color: #FFFFE0; 
-  font-family: Arials
-  color: #191970; 
+.body {
+background-color: #FFFFE0; 
+font-family: Ariels
+  color: #d92b1e 
 }
-
-.kartu-profil{
+.kartu-profil {
   width: 300px;
   margin: 50px auto;
   
@@ -14,8 +13,7 @@
   box-shadow: 0 4px 8px rgba(0,0,0,0,.1); 
   text-align: center; 
 }
-
-.kartun profil img{
+.kartun-profil img {
   width: 150px;
   border-radius: 50%;
 }
